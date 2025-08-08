@@ -1,11 +1,11 @@
 # ISBN Book Search App
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://your-deployment-link.com)
-[![GitHub](https://img.shields.io/badge/github-repo-blue)](https://github.com/your-username/isbn-book-search)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://isbn-book-search.vercel.app/)
+[![GitHub](https://img.shields.io/badge/github-repo-blue)](https://github.com/codes-sharan/isbn-book-search)
 
 A full-stack application that allows users to search book details by ISBN number. Built with Next.js (React) frontend and Django backend.
 
-![App Screenshot](https://via.placeholder.com/800x500?text=ISBN+Book+Search+Screenshot)
+![App Screenshot](https://res.cloudinary.com/dpkihscr2/image/upload/v1754616635/isbn_lkiwfk.png)
 
 ## Features
 
